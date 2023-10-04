@@ -6,6 +6,6 @@
 *....
 
 ### Screenshots
-![Snake game](https://github.com/dsitien/math-util-1625/blob/main/image/DDTTest.PNG)
+![Snake game](https://github.com/dsitien/Snake-game/blob/main/img/Capture.PNG)
 
 #### © 2023 dsitien
